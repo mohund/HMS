@@ -1,0 +1,67 @@
+Add_Single_Member Ahmed_Mohammed  M 15/08/1980 20/8/2008 Alsalamah +96677700023 VIP 
+Add_Single_Member Manal_Deeb F 12/10/1995 10/2/2012 Alnaeem +9666576760230 VIP
+Add_Single_Member Maram_alharbi F 12/12/1994 10/2/2005 Alsafa +9666576765630 Regular
+Add_Single_Member Karama_alharbi F 10/2/2008 12/5/2018 Alhamadania +9666576666630 Regular
+Add_Single_Member Kareem_Almeena M 5/8/1990 12/3/2009 Almahjar +9666576768498 Regular
+Add_Family_Member Jasem_aljabri M 23/9/1970 22/4/2010 Bani_malek +96677700023 Mona_alshamri/Ahmed_Aljabri/Samar_Aljabri
+Add_Family_Member Mohammed_Kareem M 11/10/1977 22/02/2005 Alsafa +966566660000 Mai_Kareem/Maha_kareem
+Add_Family_Member Kamal_Almadani M 5/5/1975 12/2/2003 Alsamer +9666576760230 Amal_Alsharif/Malak_Almadani/Dalal_Almadani
+Add_Family_Member Fawziah_Malki F 25/3/1977 15/5/2005 AlAjwad +9666576765630 Jaber_Almutairi 
+Add_Family_Member Monira_zakaria F 2/12/1980 5/3/2009 AlKhaldiah +9666576768498 Malek_albeladi/Ahmed_albeladi/Masa_albeladi
+Add_Class Cardio Female-branch 160 50 Dania_rami
+Add_Class Tennis Female-branch 200 40 Maria_sharapova 
+Add_Class Zumba Female-branch 150 50 cindy_jones
+Add_Class Cardio Female-branch 160 50 Madison_jones
+Add_Class Cycling Female-branch 150 50 Tamara_Jameel
+Add_Class KickBoxing Female-branch 160 50 Manal_Tawfeeq
+Add_Class Zumba Female-branch 150 50  kathleen_johnson
+Add_Class Cardio Female-branch 160 50 Margaret_gonzalez 
+Add_Class Cardio Male-branch 160 50 Ahmed_Jameel
+Add_Class Tennis Male-branch 200 40 Shadi_Moneeb 
+Add_Class Zumba Male-branch 150 50 Jhone_jay
+Add_Class Cardio Male-branch 160 50 David_jones
+Add_Class Cycling Male-branch 150 50 Tareg_Alzahrani
+Add_Class KickBoxing Male-branch 160 50 Kamel_belal
+Add_Class Zumba Male-branch 150 50  Mohamed_Alhomod 
+Add_Class Cardio Male-branch 160 50 Madi_gonzalez
+Add_Amenity Swimming-pool2 comfort Female-branch above-18 0
+Add_Amenity Jacuzzis comfort Female-branch above-18  0 
+Add_Amenity Daycare convenience Female-branch have-children 50
+Add_Amenity Massage comfort Female-branch above-18 30
+Add_Amenity Sauna comfort Female-branch above-18 0
+Add_Amenity Steam-room comfort male-branch above-18 0
+Add_Amenity Tanning-Bed comfort Female-branch above-18 0
+Add_Amenity Swimming-pool1 comfort Female-branch above-18 0
+Add_Amenity Swimming-pool comfort male-branch above-18 0
+Add_Amenity Jacuzzis comfort male-branch above-18  0 
+Add_Amenity Massage comfort male-branch above-18 30
+Add_Amenity Sauna comfort male-branch above-18 0
+Add_Amenity Steam-room comfort male-branch above-18 0
+Register 1001
+In cardio  
+And zumba
+And cycling
+And Sauna
+submit
+Register 2001
+In  cardio  
+And cycling
+And daycare
+And Swimming-pool
+submit
+Register 1006
+In cardio  
+And zumba
+submit
+Register 1003
+In cardio  
+And daycare
+And Steam-room
+submit
+Register 1004
+In cardio  
+And zumba
+submit
+Print_Sort_Classes
+Print_Sort_Amenities
+Quit

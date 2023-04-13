@@ -1,0 +1,222 @@
+--------------- welcome to Gym Mangment System ---------------
+SingleMembers info {ID=1001, Name=Ahmed_Mohammed, Gender=M, DateOfBirth=15/8/1980, DateOfRegestration=20/8/2008, Address=Alsalamah, Phone=+96677700023,  MembershipType=VIP}
+----------------------------------------------------------------
+SingleMembers info {ID=1002, Name=Manal_Deeb, Gender=F, DateOfBirth=12/10/1995, DateOfRegestration=10/2/2012, Address=Alnaeem, Phone=+9666576760230,  MembershipType=VIP}
+----------------------------------------------------------------
+SingleMembers info {ID=1003, Name=Maram_alharbi, Gender=F, DateOfBirth=12/12/1994, DateOfRegestration=10/2/2005, Address=Alsafa, Phone=+9666576765630,  MembershipType=Regular}
+----------------------------------------------------------------
+SingleMembers info {ID=1004, Name=Karama_alharbi, Gender=F, DateOfBirth=10/2/2008, DateOfRegestration=12/5/2018, Address=Alhamadania, Phone=+9666576666630,  MembershipType=Regular}
+----------------------------------------------------------------
+SingleMembers info {ID=1005, Name=Kareem_Almeena, Gender=M, DateOfBirth=5/8/1990, DateOfRegestration=12/3/2009, Address=Almahjar, Phone=+9666576768498,  MembershipType=Regular}
+----------------------------------------------------------------
+Command Add_Family_Member was successfully completed
+FamilyMembers{ID=2001, Name=Jasem_aljabri, Gender=M, DateOfBirth=23/9/1970, DateOfRegestration=22/4/2010, Address=Bani_malek, Phone=+96677700023, Family_members_names=[Mona_alshamri, Ahmed_Aljabri, Samar_Aljabri]}
+----------------------------------------------------------------
+Command Add_Family_Member was successfully completed
+FamilyMembers{ID=2002, Name=Mohammed_Kareem, Gender=M, DateOfBirth=11/10/1977, DateOfRegestration=22/2/2005, Address=Alsafa, Phone=+966566660000, Family_members_names=[Mai_Kareem, Maha_kareem]}
+----------------------------------------------------------------
+Command Add_Family_Member was successfully completed
+FamilyMembers{ID=2003, Name=Kamal_Almadani, Gender=M, DateOfBirth=5/5/1975, DateOfRegestration=12/2/2003, Address=Alsamer, Phone=+9666576760230, Family_members_names=[Amal_Alsharif, Malak_Almadani, Dalal_Almadani]}
+----------------------------------------------------------------
+Command Add_Family_Member was successfully completed
+FamilyMembers{ID=2004, Name=Fawziah_Malki, Gender=F, DateOfBirth=25/3/1977, DateOfRegestration=15/5/2005, Address=AlAjwad, Phone=+9666576765630, Family_members_names=[Jaber_Almutairi]}
+----------------------------------------------------------------
+Command Add_Family_Member was successfully completed
+FamilyMembers{ID=2005, Name=Monira_zakaria, Gender=F, DateOfBirth=2/12/1980, DateOfRegestration=5/3/2009, Address=AlKhaldiah, Phone=+9666576768498, Family_members_names=[Malek_albeladi, Ahmed_albeladi, Masa_albeladi]}
+----------------------------------------------------------------
+Command Add_Class was successfully completed
+Class{ServiceID =5001, ServiceName =Cardio, Location =Female-branch, Price =160.0, capacity= 50, Instructor= Dania_rami}
+----------------------------------------------------------------
+Command Add_Class was successfully completed
+Class{ServiceID =5002, ServiceName =Tennis, Location =Female-branch, Price =200.0, capacity= 40, Instructor= Maria_sharapova}
+----------------------------------------------------------------
+Command Add_Class was successfully completed
+Class{ServiceID =5003, ServiceName =Zumba, Location =Female-branch, Price =150.0, capacity= 50, Instructor= cindy_jones}
+----------------------------------------------------------------
+Command Add_Class was successfully completed
+Class{ServiceID =5004, ServiceName =Cardio, Location =Female-branch, Price =160.0, capacity= 50, Instructor= Madison_jones}
+----------------------------------------------------------------
+Command Add_Class was successfully completed
+Class{ServiceID =5005, ServiceName =Cycling, Location =Female-branch, Price =150.0, capacity= 50, Instructor= Tamara_Jameel}
+----------------------------------------------------------------
+Command Add_Class was successfully completed
+Class{ServiceID =5006, ServiceName =KickBoxing, Location =Female-branch, Price =160.0, capacity= 50, Instructor= Manal_Tawfeeq}
+----------------------------------------------------------------
+Command Add_Class was successfully completed
+Class{ServiceID =5007, ServiceName =Zumba, Location =Female-branch, Price =150.0, capacity= 50, Instructor= kathleen_johnson}
+----------------------------------------------------------------
+Command Add_Class was successfully completed
+Class{ServiceID =5008, ServiceName =Cardio, Location =Female-branch, Price =160.0, capacity= 50, Instructor= Margaret_gonzalez}
+----------------------------------------------------------------
+Command Add_Class was successfully completed
+Class{ServiceID =5009, ServiceName =Cardio, Location =Male-branch, Price =160.0, capacity= 50, Instructor= Ahmed_Jameel}
+----------------------------------------------------------------
+Command Add_Class was successfully completed
+Class{ServiceID =5010, ServiceName =Tennis, Location =Male-branch, Price =200.0, capacity= 40, Instructor= Shadi_Moneeb}
+----------------------------------------------------------------
+Command Add_Class was successfully completed
+Class{ServiceID =5011, ServiceName =Zumba, Location =Male-branch, Price =150.0, capacity= 50, Instructor= Jhone_jay}
+----------------------------------------------------------------
+Command Add_Class was successfully completed
+Class{ServiceID =5012, ServiceName =Cardio, Location =Male-branch, Price =160.0, capacity= 50, Instructor= David_jones}
+----------------------------------------------------------------
+Command Add_Class was successfully completed
+Class{ServiceID =5013, ServiceName =Cycling, Location =Male-branch, Price =150.0, capacity= 50, Instructor= Tareg_Alzahrani}
+----------------------------------------------------------------
+Command Add_Class was successfully completed
+Class{ServiceID =5014, ServiceName =KickBoxing, Location =Male-branch, Price =160.0, capacity= 50, Instructor= Kamel_belal}
+----------------------------------------------------------------
+Command Add_Class was successfully completed
+Class{ServiceID =5015, ServiceName =Zumba, Location =Male-branch, Price =150.0, capacity= 50, Instructor= Mohamed_Alhomod}
+----------------------------------------------------------------
+Command Add_Class was successfully completed
+Class{ServiceID =5016, ServiceName =Cardio, Location =Male-branch, Price =160.0, capacity= 50, Instructor= Madi_gonzalez}
+----------------------------------------------------------------
+Command Add_Amenity was successfully completed
+Amenity{ServiceID =6001, ServiceName =Swimming-pool2, Location =Female-branch, Price =0.0, Amenity_type=comfort, Restriction=above-18}
+----------------------------------------------------------------
+Command Add_Amenity was successfully completed
+Amenity{ServiceID =6002, ServiceName =Jacuzzis, Location =Female-branch, Price =0.0, Amenity_type=comfort, Restriction=above-18}
+----------------------------------------------------------------
+Command Add_Amenity was successfully completed
+Amenity{ServiceID =6003, ServiceName =Daycare, Location =Female-branch, Price =50.0, Amenity_type=convenience, Restriction=have-children}
+----------------------------------------------------------------
+Command Add_Amenity was successfully completed
+Amenity{ServiceID =6004, ServiceName =Massage, Location =Female-branch, Price =30.0, Amenity_type=comfort, Restriction=above-18}
+----------------------------------------------------------------
+Command Add_Amenity was successfully completed
+Amenity{ServiceID =6005, ServiceName =Sauna, Location =Female-branch, Price =0.0, Amenity_type=comfort, Restriction=above-18}
+----------------------------------------------------------------
+Command Add_Amenity was successfully completed
+Amenity{ServiceID =6006, ServiceName =Steam-room, Location =male-branch, Price =0.0, Amenity_type=comfort, Restriction=above-18}
+----------------------------------------------------------------
+Command Add_Amenity was successfully completed
+Amenity{ServiceID =6007, ServiceName =Tanning-Bed, Location =Female-branch, Price =0.0, Amenity_type=comfort, Restriction=above-18}
+----------------------------------------------------------------
+Command Add_Amenity was successfully completed
+Amenity{ServiceID =6008, ServiceName =Swimming-pool1, Location =Female-branch, Price =0.0, Amenity_type=comfort, Restriction=above-18}
+----------------------------------------------------------------
+Command Add_Amenity was successfully completed
+Amenity{ServiceID =6009, ServiceName =Swimming-pool, Location =male-branch, Price =0.0, Amenity_type=comfort, Restriction=above-18}
+----------------------------------------------------------------
+Command Add_Amenity was successfully completed
+Amenity{ServiceID =6010, ServiceName =Jacuzzis, Location =male-branch, Price =0.0, Amenity_type=comfort, Restriction=above-18}
+----------------------------------------------------------------
+Command Add_Amenity was successfully completed
+Amenity{ServiceID =6011, ServiceName =Massage, Location =male-branch, Price =30.0, Amenity_type=comfort, Restriction=above-18}
+----------------------------------------------------------------
+Command Add_Amenity was successfully completed
+Amenity{ServiceID =6012, ServiceName =Sauna, Location =male-branch, Price =0.0, Amenity_type=comfort, Restriction=above-18}
+----------------------------------------------------------------
+Command Add_Amenity was successfully completed
+Amenity{ServiceID =6013, ServiceName =Steam-room, Location =male-branch, Price =0.0, Amenity_type=comfort, Restriction=above-18}
+----------------------------------------------------------------
+------------------------- Invoice Details -------------------------
+Registration Reference Number:1001001
+Member ID:1001
+Member name:Ahmed_Mohammed
+-------------------------------------------------------------------
+Service             	Original_Price	Discount	Final_price
+Cardio                  160.00          60.0%           64.00
+Zumba                   150.00          60.0%           60.00
+Cycling                 150.00          60.0%           60.00
+Sauna                   0.00            60.0%           0.00
+-------------------------------------------------------------------
+ Number of discounted items:4
+- Original Total Price:460.00
+- Final Price:184.00
+- Saving Amount:276.00
+-------------------------------------------------------------------
+
+
+The requested service Daycare does not exist in the system
+------------------------- Invoice Details -------------------------
+Registration Reference Number:2001001
+Member ID:2001
+Member name:Jasem_aljabri
+-------------------------------------------------------------------
+Service             	Original_Price	Discount	Final_price
+Cardio                  160.00          15.0%           136.00
+Cycling                 150.00          15.0%           127.50
+Swimming-pool           0.00            15.0%           0.00
+-------------------------------------------------------------------
+ Number of discounted items:3
+- Original Total Price:310.00
+- Final Price:263.50
+- Saving Amount:46.50
+-------------------------------------------------------------------
+
+
+the member does not exist in the system
+The requested service Daycare is not allowed for Single members
+The requested service Steam-room does not exist in the system
+------------------------- Invoice Details -------------------------
+Registration Reference Number:1003001
+Member ID:1003
+Member name:Maram_alharbi
+-------------------------------------------------------------------
+Service             	Original_Price	Discount	Final_price
+Cardio                  160.00          10.0%           144.00
+-------------------------------------------------------------------
+ Number of discounted items:1
+- Original Total Price:160.00
+- Final Price:144.00
+- Saving Amount:16.00
+-------------------------------------------------------------------
+
+
+------------------------- Invoice Details -------------------------
+Registration Reference Number:1004001
+Member ID:1004
+Member name:Karama_alharbi
+-------------------------------------------------------------------
+Service             	Original_Price	Discount	Final_price
+Cardio                  160.00          0.0%           160.00
+Zumba                   150.00          0.0%           150.00
+-------------------------------------------------------------------
+ Number of discounted items:0
+- Original Total Price:310.00
+- Final Price:310.00
+- Saving Amount:0.00
+-------------------------------------------------------------------
+
+
+----------------------------------------- Classes Sorted By Price ------------------------------------------
+Class name          	Location      	Instructor        	Price             	
+----------------------------------------------------------------------------------------------------------------
+Zumba                   Female-branch   cindy_jones             150.0
+Cycling                 Female-branch   Tamara_Jameel           150.0
+Zumba                   Female-branch   kathleen_johnson        150.0
+Zumba                   Male-branch     Jhone_jay               150.0
+Cycling                 Male-branch     Tareg_Alzahrani         150.0
+Zumba                   Male-branch     Mohamed_Alhomod         150.0
+Cardio                  Female-branch   Dania_rami              160.0
+Cardio                  Female-branch   Madison_jones           160.0
+KickBoxing              Female-branch   Manal_Tawfeeq           160.0
+Cardio                  Female-branch   Margaret_gonzalez       160.0
+Cardio                  Male-branch     Ahmed_Jameel            160.0
+Cardio                  Male-branch     David_jones             160.0
+KickBoxing              Male-branch     Kamel_belal             160.0
+Cardio                  Male-branch     Madi_gonzalez           160.0
+Tennis                  Female-branch   Maria_sharapova         200.0
+Tennis                  Male-branch     Shadi_Moneeb            200.0
+
+
+----------------------------------------- Amenities Sorted By Name ------------------------------------------
+Amenity name        	Location      	Restriction       	Price             	
+----------------------------------------------------------------------------------------------------------------
+Daycare                 Female-branch   have-children           50.0
+Jacuzzis                Female-branch   above-18                0.0
+Jacuzzis                male-branch     above-18                0.0
+Massage                 Female-branch   above-18                30.0
+Massage                 male-branch     above-18                30.0
+Sauna                   Female-branch   above-18                0.0
+Sauna                   male-branch     above-18                0.0
+Steam-room              male-branch     above-18                0.0
+Steam-room              male-branch     above-18                0.0
+Swimming-pool           male-branch     above-18                0.0
+Swimming-pool1          Female-branch   above-18                0.0
+Swimming-pool2          Female-branch   above-18                0.0
+Tanning-Bed             Female-branch   above-18                0.0
+----------------------------------------------------------------------------------------------------------------
+Thank you for using Gym Management System, Good Bye!
